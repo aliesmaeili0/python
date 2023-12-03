@@ -1,0 +1,4 @@
+def a(text):
+    print(sum(text))
+
+a(input('enter a text:'))
